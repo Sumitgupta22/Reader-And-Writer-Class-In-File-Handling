@@ -35,7 +35,7 @@ public class Main {
       System.out.println(e);
     }finally{
       
-      System.out.println("File is closed");
+      System.out.println("File is close");
     }
   }
 
