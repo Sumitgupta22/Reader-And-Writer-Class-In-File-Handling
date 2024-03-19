@@ -1,2 +1,2 @@
-<h1>Hi,</h1><br><hr>
-<h3>I'm @sumitgupta22 </h3><br><h3>2 - 👀 I'm interested in... </h3><br><h3>3 - 🌱I'm still learning... </h3><br><h3>4 - 💞️ I want to contribute to this... </h3><br><h3>5 - 📫How to reach me... </h3><br><h3>6 - 😄 Pronoun:... </h3><br><h3>7 - ✓ Fun Facts:...</h3>
+<h1>Hi,</h1><hr>
+<h3>I'm @sumitgupta22 </h3><br><h3>👀 I'm interested in... </h3><br><h3>🌱I'm still learning... </h3><br><h3>💞️ I want to contribute to this... </h3><br><h3>📫How to reach me... </h3><br><h3>😄 Pronoun:... </h3><br><h3>✓ Fun Facts:...</h3>
